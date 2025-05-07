@@ -168,7 +168,7 @@ export default function App() {
         </div>
         <div className="header-content">
           <h1 className="conjunto-title" style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-            <Emoji symbol="🏢" label="Conjunto" /> <span>CONJUNTO HABITACIONAL THOMAS II</span> <Emoji symbol="⭐" label="Estrella" />
+            <Emoji symbol="🌆🏡" label="Conjunto" /> <span>CONJUNTO HABITACIONAL THOMAS II</span> <Emoji symbol="⭐" label="Estrella" />
           </h1>
           <div
             className="subtitle"
