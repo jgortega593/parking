@@ -5,8 +5,7 @@ export default ({ mode }) => {
   const env = loadEnv(mode, process.cwd(), '')
 
   return defineConfig({
-    base: './', // ✅ Agrega esta línea (nivel raíz, no dentro de 'build')
-    plugins: [react()],
+       plugins: [react()],
     server: {
       open: false,
     },
